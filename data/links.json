@@ -1,0 +1,20 @@
+[
+  {
+    "id": "link_discord",
+    "title": "Discord del Servidor",
+    "url": "https://discord.gg/ejemplo",
+    "description": "Únete al Discord para noticias y soporte."
+  },
+  {
+    "id": "link_donaciones",
+    "title": "Tienda / Donaciones",
+    "url": "https://tienda.ejemplo.com",
+    "description": "Compra donaciones y paquetes VIP."
+  },
+  {
+    "id": "link_reglas",
+    "title": "Reglas del Servidor",
+    "url": "https://docs.ejemplo.com/reglas",
+    "description": "Lee las reglas antes de jugar."
+  }
+]

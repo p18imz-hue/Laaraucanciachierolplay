@@ -1,0 +1,55 @@
+/* Estilos generales */
+:root{
+  --bg:#0f1724;
+  --card:#0b1220;
+  --accent:#ff6b6b;
+  --text:#e6eef8;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;
+  background:linear-gradient(180deg,var(--bg),#071023 120%);
+  color:var(--text);
+  min-height:100vh;
+}
+header{
+  padding:16px;
+  background:rgba(255,255,255,0.02);
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+header h1{margin:0;font-size:20px}
+nav a{
+  color:var(--text);
+  margin-left:12px;
+  text-decoration:none;
+  opacity:0.9;
+}
+main{padding:20px;max-width:980px;margin:0 auto}
+.card{
+  background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border:1px solid rgba(255,255,255,0.03);
+  padding:16px;
+  border-radius:8px;
+  margin-bottom:16px;
+}
+.item, .job, .link {
+  border-bottom:1px dashed rgba(255,255,255,0.03);
+  padding:12px 0;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.item:last-child, .job:last-child, .link:last-child { border-bottom:0 }
+.btn {
+  background:var(--accent);
+  color:#07202b;
+  padding:8px 12px;
+  border-radius:6px;
+  border:none;
+  cursor:pointer;
+  font-weight:600;
+}
+footer{padding:12px;text-align:center;opacity:0.8}
