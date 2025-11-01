@@ -1,0 +1,20 @@
+[
+  {
+    "id": "job_police",
+    "title": "Policía",
+    "description": "Mantén el orden y protege a los ciudadanos.",
+    "salary_per_hour": 120
+  },
+  {
+    "id": "job_ambulance",
+    "title": "Paramédico",
+    "description": "Atiende emergencias y salva vidas.",
+    "salary_per_hour": 110
+  },
+  {
+    "id": "job_trucker",
+    "title": "Camionero",
+    "description": "Transporte de mercancías por la ciudad.",
+    "salary_per_hour": 80
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "skin_001",
+    "name": "Skin Épica",
+    "description": "Apariencia exclusiva para tu personaje.",
+    "price": 500
+  },
+  {
+    "id": "car_001",
+    "name": "Auto Deportivo",
+    "description": "Vehículo rápido y elegante.",
+    "price": 1500
+  },
+  {
+    "id": "weapon_001",
+    "name": "Arma Personalizada",
+    "description": "Arma con mejoras de daño.",
+    "price": 800
+  }
+]

@@ -1,0 +1,1 @@
+{"name":"laaraucanciachierolplay-portal","version":"0.1.0","description":"Portal web para servidor de roleplay: tienda, sueldos y enlaces.","main":"server.js","scripts":{"start":"node server.js","dev":"NODE_ENV=development nodemon server.js"},"author":"p18imz-hue","license":"MIT","dependencies":{"express":"^4.18.2"},"devDependencies":{"nodemon":"^2.0.22"}}
